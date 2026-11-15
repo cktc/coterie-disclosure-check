@@ -3,3 +3,4 @@ evals/results/
 evals-report.html
 evals-result.json
 node_modules/
+dist/
