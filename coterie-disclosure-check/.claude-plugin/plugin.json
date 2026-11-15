@@ -1,0 +1,14 @@
+{
+  "name": "coterie-disclosure-check",
+  "displayName": "CoterieLabs Disclosure Check",
+  "version": "0.1.0",
+  "description": "Checks whether an Australian business must disclose AI and automated decisions in its privacy policy under APP 1.7 to 1.9 (in force 10 December 2026), lists the software that shapes decisions about people, and reviews the privacy policy against APP 1.8.",
+  "author": {
+    "name": "CoterieLabs",
+    "url": "https://coterielabs.com.au"
+  },
+  "homepage": "https://coterielabs.com.au/ai-disclosure-check",
+  "repository": "https://github.com/cktc/coterie-disclosure-check",
+  "license": "CC-BY-4.0",
+  "keywords": ["privacy", "australia", "privacy-act", "app-1-7", "automated-decisions", "ai-governance", "compliance", "financial-advice", "accounting"]
+}

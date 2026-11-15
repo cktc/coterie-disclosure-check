@@ -1,0 +1,14 @@
+{
+  "name": "coterielabs",
+  "owner": {
+    "name": "CoterieLabs",
+    "url": "https://coterielabs.com.au"
+  },
+  "plugins": [
+    {
+      "name": "coterie-disclosure-check",
+      "source": "./coterie-disclosure-check",
+      "description": "Australian Privacy Act APP 1.7 to 1.9 automated-decision disclosure: coverage check, decision list and privacy policy review."
+    }
+  ]
+}
