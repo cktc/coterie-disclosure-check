@@ -1,5 +1,6 @@
 {
   "name": "coterielabs",
+  "description": "Plugins from CoterieLabs for Australian professional-services firms adopting AI.",
   "owner": {
     "name": "CoterieLabs",
     "url": "https://coterielabs.com.au"
