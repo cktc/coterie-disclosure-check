@@ -9,6 +9,19 @@
   },
   "homepage": "https://coterielabs.com.au/ai-disclosure-check",
   "repository": "https://github.com/cktc/coterie-disclosure-check",
+  "documentationUrl": "https://github.com/cktc/coterie-disclosure-check/tree/main/coterie-disclosure-check#readme",
+  "privacyPolicyUrl": "https://coterielabs.com.au/privacy",
+  "supportUrl": "https://coterielabs.com.au/contact",
   "license": "CC-BY-4.0",
-  "keywords": ["privacy", "australia", "privacy-act", "app-1-7", "automated-decisions", "ai-governance", "compliance", "financial-advice", "accounting"]
+  "keywords": [
+    "privacy",
+    "australia",
+    "privacy-act",
+    "app-1-7",
+    "automated-decisions",
+    "ai-governance",
+    "compliance",
+    "financial-advice",
+    "accounting"
+  ]
 }
