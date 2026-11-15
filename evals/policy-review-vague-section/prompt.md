@@ -1,7 +1,8 @@
 ---
 description: Policy with a vague 'we use AI' paragraph that only partly covers APP 1.8
 plugins: ["../.."]
-max_turns: 8
+max_turns: 12
+allowed_tools: [Read, Glob, Grep, Skill]
 ---
 We're an advice firm with $4 million turnover. We think we're already covered because our policy mentions AI. Can you check it against the new automated-decision disclosure rules?
 

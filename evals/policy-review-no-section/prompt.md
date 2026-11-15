@@ -1,7 +1,8 @@
 ---
 description: Advice firm policy with no automated-decision section at all
 plugins: ["../.."]
-max_turns: 8
+max_turns: 12
+allowed_tools: [Read, Glob, Grep, Skill]
 ---
 We're an advice firm with $4 million turnover, so we know the APP 1.7 duty likely applies. Please review our privacy policy for the new automated-decision disclosure rules and draft what we need to add.
 
